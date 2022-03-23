@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我是分類 on 小可的部落格</title>
+    <link>https://t123402.github.io/categories/%E6%88%91%E6%98%AF%E5%88%86%E9%A1%9E/</link>
+    <description>Recent content in 我是分類 on 小可的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hant-TW</language>
+    <lastBuildDate>Tue, 22 Mar 2022 11:04:55 +0800</lastBuildDate><atom:link href="https://t123402.github.io/categories/%E6%88%91%E6%98%AF%E5%88%86%E9%A1%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我是文章標題</title>
+      <link>https://t123402.github.io/blog/test/</link>
+      <pubDate>Tue, 22 Mar 2022 11:04:55 +0800</pubDate>
+      
+      <guid>https://t123402.github.io/blog/test/</guid>
+      <description>Hello World
+我是內文
+我是一級標題 二級標題 最小標題 我是粗體！
+我是斜體！
+ 有序  子有序  子子有序     有序第二 有序第三   無序  子無序   無序第二 無序第三   我說 我會賺大錢</description>
+    </item>
+    
+  </channel>
+</rss>
